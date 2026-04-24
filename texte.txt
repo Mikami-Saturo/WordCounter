@@ -1,0 +1,3 @@
+Bonjour tout le monde
+Java est un langage de programmation
+J'apprends la programmation orientée objet
